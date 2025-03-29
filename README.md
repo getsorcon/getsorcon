@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @getsorcon
+- 👋 Hi, I’m @Chihaya_Anon
 - 👀 I’m interested in ...C
-- 🌱 I’m currently learning ...Python,C++
+- 🌱 I’m currently learning ...Java,C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...a2033925118@gmail.com
 
